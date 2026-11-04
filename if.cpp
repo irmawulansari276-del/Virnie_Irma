@@ -12,6 +12,8 @@ int main(){
      if(total_belanja > 100000) {
         cout << "selamat! anda dapat hadiah" <<endl;
 
+     }else {
+      cout << "Coba Ulangi Lagi!";
      }
      cout << "terimakasih sudah berbelanja di toko kami" << endl;
      return 0;
